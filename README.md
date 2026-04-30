@@ -19,3 +19,9 @@ Resumiendo mi entendimiento sobre tuplas es que son como las listas PEEERO son i
 
 Explicacion:
 Un diccionario es una de las estructuras de datos que permite almacenar información en pares y se basa en clave y valor o algo asi, tambien se podria decir que cada clave identifica un valor, lo que facilita acceder a los datos de forma directa sin depender de posiciones como en las listas o tuplas.
+
+# Modulo 4 Conjuntos()
+![Reto Conjuntos](images/reto_conjuntos.png)
+
+Explicacion:
+En pocas palabras de lo que eh entendido de los conjuntos es que se parecen mucho a los diccionarios o algo asi como una combinacion de diccionarios y listas y tienen varias subfunciones o algo asi que permiten poder hacer distintas cosas con con los conjuntos, sea actualizar alguna informacion o algo asi, borrarlos, o añadir mas datos
