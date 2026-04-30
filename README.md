@@ -11,3 +11,8 @@ Segun lo que entendi las listas son capaces de almacenar varios tipos de datos o
 ![Reto Tuplas](images/reto_tuplas.png)
 Explicacion:
 Resumiendo mi entendimiento sobre tuplas es que son como las listas PEEERO son inmutables, eso solo significa que no se pueden modificar como las listas, sus datos son estaticos, tambien que en ves de [ ] se usan ( ) y pues de resto los veo igual
+
+# Modulo 3 Diccionarios()
+![Reto Diccionarios](images/reto_diccionarios.png)
+Explicacion:
+Un diccionario es una de las estructuras de datos que permite almacenar información en pares y se basa en clave y valor o algo asi, tambien se podria decir que cada clave identifica un valor, lo que facilita acceder a los datos de forma directa sin depender de posiciones como en las listas o tuplas.
